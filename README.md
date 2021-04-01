@@ -1,7 +1,7 @@
 # App-Clima (Vanilla JS)
 
 ### Description
-> **An example developing with webpack to create a app with pure JS, this app consults an API and gives the weather from the location that you consulted**
+> **An example developing with webpack to create an app with pure JS, this app consults an API and gives the weather from the location that you consulted**
 
 ## Technologies employed
 
